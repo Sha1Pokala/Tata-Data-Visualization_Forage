@@ -4,7 +4,7 @@
 
 Welcome to the Tata Group Data Analysis Repository! 📌  
 
-This repository contains my work on Tata Group's Job Simulation program, where I applied data visualization and analytical skills to solve business challenges using tools like Tableau and Power BI.  
+This repository contains my work on Tata Group's Job Simulation program, where I applied data visualization and analytical skills to solve business challenges using tools like Tableau.
 
 ---
 
@@ -15,7 +15,7 @@ This self-paced program provided an opportunity to experience work at **Tata Ins
 ✅ **Risk-free learning experience** – No grades, no assessments  
 ✅ **Real-world case studies** – Hands-on problem-solving with real business scenarios  
 ✅ **Business-focused analytics** – Presenting insights to senior executives (CEO & CMO)  
-✅ **Data visualization expertise** – Using Tableau & Power BI to tell data-driven stories  
+✅ **Data visualization expertise** – Using Tableau to tell data-driven stories  
 
 ---
 
@@ -33,7 +33,7 @@ This self-paced program provided an opportunity to experience work at **Tata Ins
 - Focused on **data storytelling and clarity** to communicate insights effectively.  
 - Answered a **multiple-choice quiz** to reinforce best visualization practices.  
 
-### ✅ Task 3: Creating Effective Visuals (Tableau/Power BI)  
+### ✅ Task 3: Creating Effective Visuals (Tableau)  
 
 - **Performed data cleanup** to remove inaccurate values (negative quantities, incorrect unit prices).  
 - Created **four key visualizations** to answer executive questions:  
@@ -43,7 +43,7 @@ This self-paced program provided an opportunity to experience work at **Tata Ins
   📊 **CMO - Top 10 Customers by Revenue (Descending Order)**  
   📊 **CEO - Demand by Country (Excluding UK) for Expansion Strategy**  
 
-- **Saved final dashboards in .twbx (Tableau) or .pbix (Power BI) format**.  
+- **Saved final dashboards in .twbx (Tableau) format**.  
 
 ### ✅ Task 4: Communicating Insights and Analysis  
 
@@ -55,9 +55,9 @@ This self-paced program provided an opportunity to experience work at **Tata Ins
 
 ## 🛠 Tech Stack  
 
-- **Visualization & Analysis:** Tableau, Power BI  
+- **Visualization & Analysis:** Tableau
 - **Data Processing:** Excel  
-- **File Formats:** CSV (Raw Data), .twbx (Tableau), .pbix (Power BI)  
+- **File Formats:** CSV (Raw Data), .twbx (Tableau).  
 
 ---
 
@@ -65,7 +65,7 @@ This self-paced program provided an opportunity to experience work at **Tata Ins
 
 This project provided **real-world exposure** to how data analytics and visualization support strategic business decisions. By completing this **Tata Job Simulation**, I enhanced my:  
 
-📌 **Data visualization & analytics skills** using Tableau & Power BI 📊  
+📌 **Data visualization & analytics skills** using Tableau 📊  
 📌 **Business storytelling & presentation abilities** for executives 🏢  
 📌 **Critical thinking & problem-solving skills** for real-world business challenges 🔍  
 
